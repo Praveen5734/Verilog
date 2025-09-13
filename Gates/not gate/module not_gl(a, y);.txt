@@ -1,0 +1,5 @@
+module not_gl(a, y);
+    input a;
+    output y;
+    not g1(y, a);
+endmodule
